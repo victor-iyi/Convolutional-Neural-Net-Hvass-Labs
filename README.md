@@ -1,4 +1,4 @@
-# Convolutional-Neural-Net-Hvaas-Labs
+# Convolutional-Neural-Net-Hvass-Labs
 A Convolutional Neural Network built with Tensorflow to classify the MNIST handwritten digits
 
 ### Objective
